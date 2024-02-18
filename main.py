@@ -2,12 +2,6 @@ print('Hello')
 
 
 def summ(x: int, y: int) -> int:
-    """
-    Сумма чисел
-    :param x:
-    :param y:
-    :return:
-    """
     return x + y
 
 
